@@ -30,14 +30,24 @@ Over the past month, I’ve built and managed a home lab designed to simulate en
 ---
 
 ## 📂 Featured Projects
-Here are some of the larger projects I’ve built from my home lab:  
+Here are some of the larger projects I’ve built (or am building) from my home lab:  
 
 - **[Enterprise Security Lab – Part 1 (Setup)](https://github.com/<your-username>/enterprise-lab-part1-setup)**  
   Multi-VM enterprise lab build (pfSense, AD, Splunk, Sysmon, Kali, Metasploitable).  
-- **[Enterprise Security Lab – Part 1.5 (Snort)](https://github.com/<your-username>/enterprise-lab-part1.5-snort)** *(Coming Soon)*  
-  IDS/IPS deployment & tuning using Snort.  
-- **Mr. Robot Red/Blue Team Exercise** *(Planned)*  
-  Simulated enterprise attacks and detections using Kali Linux, Splunk, and Snort.  
+
+- **[Enterprise Security Lab – Part 1.5 (Snort)](https://github.com/<your-username>/enterprise-lab-part1.5-snort)** *(In Progress)*  
+  IDS/IPS deployment and rule tuning using Snort, with detection validation and lessons learned.  
+
+- **Enterprise Security Lab – Part 2 (Mr. Robot Exercise)** *(Planned)*  
+  Simulated red and blue team exercise detecting and responding to attacks using Kali Linux, Snort, and Splunk.  
+
+- **Vulnerability Management Project (Nessus + Validation)** *(Planned)*  
+  Full vulnerability management workflow using Nessus for scanning, Nmap/Wireshark for validation, and mock remediation reporting.  
+
+- **Web Application Pen Testing / Forensics Project** *(Planned)*  
+  Hands-on web application testing using OWASP Juice Shop & Burp Suite (covering OWASP Top 10) with forensics follow-up (Autopsy, OSForensics).  
+
+
 
 ---
 
@@ -46,6 +56,8 @@ Here are some of the larger projects I’ve built from my home lab:
 - [AWS Certified Security – Specialty](https://www.credly.com/)  
 - [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/)  
 
+### 🔄 In Progress
+- AWS Certified Security – Specialty *(expected: Aug 2025)*
 ---
 
 ## 🌐 Connect
