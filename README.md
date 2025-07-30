@@ -35,7 +35,7 @@ Here are some of the larger projects I’ve built (or am building) from my home 
 - **[Enterprise Security Lab – Part 1 (Setup)](https://github.com/mpmosby/Enterprise-Security-Lab-Part-1)**  
   Multi-VM enterprise lab build (pfSense, AD, Splunk, Sysmon, Kali, Metasploitable).  
 
-- **[Enterprise Security Lab – Part 1.5 (Snort)](https://github.com/<your-username>/enterprise-lab-part1.5-snort)** *(In Progress)*  
+- **[Enterprise Security Lab – Part 1.5 (Snort)](https://github.com/mpmosby/Enterprise-Security-Lab---Part-1.5)**  
   IDS/IPS deployment and rule tuning using Snort, with detection validation and lessons learned.  
 
 - **Enterprise Security Lab – Part 2 (Mr. Robot Exercise)** *(Planned)*  
@@ -52,20 +52,32 @@ Here are some of the larger projects I’ve built (or am building) from my home 
 ---
 
 ## 📜 Certifications
-- [ISACA CISA](https://www.credly.com/)  
-- [CompTIA CySA+](https://www.credly.com/)  
-- [CompTIA Security+](https://www.credly.com/)  
-- [AWS Certified Cloud Practitioner](https://www.credly.com/)  
-- [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/)  
+- [ISACA CISA](https://www.credly.com/badges/cd5e52fe-615f-4b27-ad54-33ec35313522/public_url)  
+- [CompTIA CySA+](https://www.credly.com/badges/cf8300b4-f681-4581-81e9-2cb44ee49f15/public_url)  
+- [CompTIA Security+](https://www.credly.com/badges/0429e002-9445-43d5-96c6-cf5a98df602b/public_url)  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/997df1a9-0609-4155-89e3-4d16be591b5b/public_url)  
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/melodyemosby-7370/credentials/f4860dc52f4305dc?ref=https%3A%2F%2Fwww.credly.com%2F)  
 - [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/)  
  
-
-
 ### 🔄 In Progress
 - AWS Certified Security – Specialty *(expected: Aug 2025)*
+
+  ## 📜 Additional Certificates & Micro-Credentials
+
+This section highlights other certificates and micro-credentials I've earned from various platforms.
+
+- **NetAcad:** [Networking Essentials](https://www.credly.com/badges/52f38872-4d58-4827-ab20-0cde70ea559d/public_url)
+- **Codecademy:** [Learn Python 3](https://www.codecademy.com/profiles/MelodyeM./certificates/37a775c61b8540fe9dd54e384ca1c41d)  
+- **Codecademy:** [Learn SQL](https://www.codecademy.com/profiles/MelodyeM./certificates/042a4e5884e3eb6ea1f2a12be6abb851)  
+- **Codecademy:** [Learn Command Line](https://www.codecademy.com/profiles/MelodyeM./certificates/c87ba0541f8be78bc2f4ba1128233f6f)  
+- **Codecademy:** [Intro to Linux](https://www.codecademy.com/profiles/MelodyeM./certificates/54de574543f242baaf263227f82073bf)
+- **Codecademy:** [Learn Powershell](https://www.codecademy.com/profiles/MelodyeM./certificates/37a775c61b8540fe9dd54e384ca1c41d)
+- **LinkedIn Learning:** [Power BI Essentials](https://www.linkedin.com/learning/certificates/c40e6f84c479b89c5c0b6eaf0be84e7e204cb5410fdefc831a51c8b9d9f0aa34?trk=share_certificate)
+- **LinkedIn Learning:** [GDPR Compliance: Essentials](https://www.linkedin.com/learning/certificates/3032c35dcd23ba0ee44336b10220522467485d2cb76e4ee8e01daa2e608aa279?trk=share_certificate)
+
 ---
 
 ## 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [LinkedIn](www.linkedin.com/in/melodye-mosby)  
 
 
