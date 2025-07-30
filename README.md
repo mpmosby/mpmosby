@@ -35,14 +35,14 @@ Here are some of the larger projects I’ve built (or am building) from my home 
 - **[Enterprise Security Lab – Part 1 (Setup)](https://github.com/mpmosby/Enterprise-Security-Lab-Part-1)**  
   Multi-VM enterprise lab build (pfSense, AD, Splunk, Sysmon, Kali, Metasploitable).  
 
-- **[Enterprise Security Lab – Part 1.5 (Snort)](https://github.com/mpmosby/Enterprise-Security-Lab---Part-1.5)**  
+- **[Enterprise Security Lab – Part 1.1 (Snort)](https://github.com/mpmosby/Enterprise-Security-Lab---Part-1.1)**
   IDS/IPS deployment and rule tuning using Snort, with detection validation and lessons learned.  
+
+- **Vulnerability Management Project – Part 1.2 (Nessus + Validation)** *(Planned)*  
+  Full vulnerability management workflow using Nessus for scanning, Nmap/Wireshark for validation, and mock remediation reporting.  
 
 - **Enterprise Security Lab – Part 2 (Mr. Robot Exercise)** *(Planned)*  
   Simulated red and blue team exercise detecting and responding to attacks using Kali Linux, Snort, and Splunk.  
-
-- **Vulnerability Management Project (Nessus + Validation)** *(Planned)*  
-  Full vulnerability management workflow using Nessus for scanning, Nmap/Wireshark for validation, and mock remediation reporting.  
 
 - **Web Application Pen Testing / Forensics Project** *(Planned)*  
   Hands-on web application testing using OWASP Juice Shop & Burp Suite (covering OWASP Top 10) with forensics follow-up (Autopsy, OSForensics).  
