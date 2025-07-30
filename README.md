@@ -52,9 +52,14 @@ Here are some of the larger projects I’ve built (or am building) from my home 
 ---
 
 ## 📜 Certifications
-- [ISACA **CISA**](https://www.credly.com/)  
-- [AWS Certified Security – Specialty](https://www.credly.com/)  
+- [ISACA CISA](https://www.credly.com/)  
+- [CompTIA CySA+](https://www.credly.com/)  
+- [CompTIA Security+](https://www.credly.com/)  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/)  
 - [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/)  
+- [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/)  
+ 
+
 
 ### 🔄 In Progress
 - AWS Certified Security – Specialty *(expected: Aug 2025)*
@@ -62,5 +67,5 @@ Here are some of the larger projects I’ve built (or am building) from my home 
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [GitHub](https://github.com/your-username)  
+
 
