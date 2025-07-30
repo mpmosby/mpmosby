@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Melodye
 
-<!--
-**mpmosby/mpmosby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- Aspiring Security Engineer with hands-on experience in enterprise labs and attack simulations.
+- Background in Active Directory, firewalls, IDS/IPS, and SIEM.
 
-Here are some ideas to get you started:
+## 📜 Certifications
+- ![CISA Badge](link)
+- AWS Certified Security – Specialty  
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Projects
+- [Enterprise Security Lab – Part 1 (Setup)](https://github.com/<username>/enterprise-lab-part1-setup)
+- Mr. Robot Attack Simulation (Coming Soon!)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/...)
+- [GitHub](https://github.com/<username>)
