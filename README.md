@@ -67,7 +67,7 @@ Here are some of the larger projects I’ve built (or am building) from my home 
 This section highlights other certificates and micro-credentials I've earned from various platforms.
 
 - **NetAcad:** [Networking Essentials](https://www.credly.com/badges/52f38872-4d58-4827-ab20-0cde70ea559d/public_url)
-- **Codecademy:** [Learn Python 3](https://www.codecademy.com/profiles/MelodyeM./certificates/37a775c61b8540fe9dd54e384ca1c41d)  
+- **Codecademy:** [Learn Python 3](https://www.codecademy.com/profiles/MelodyeM./certificates/6c152bd262967f8c941c9707ed636bda)  
 - **Codecademy:** [Learn SQL](https://www.codecademy.com/profiles/MelodyeM./certificates/042a4e5884e3eb6ea1f2a12be6abb851)  
 - **Codecademy:** [Learn Command Line](https://www.codecademy.com/profiles/MelodyeM./certificates/c87ba0541f8be78bc2f4ba1128233f6f)  
 - **Codecademy:** [Intro to Linux](https://www.codecademy.com/profiles/MelodyeM./certificates/54de574543f242baaf263227f82073bf)
