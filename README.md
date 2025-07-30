@@ -32,7 +32,7 @@ Over the past month, I’ve built and managed a home lab designed to simulate en
 ## 📂 Featured Projects
 Here are some of the larger projects I’ve built (or am building) from my home lab:  
 
-- **[Enterprise Security Lab – Part 1 (Setup)](https://github.com/<your-username>/enterprise-lab-part1-setup](https://github.com/mpmosby/Enterprise-Security-Lab-Part-1)**  
+- **[Enterprise Security Lab – Part 1 (Setup)](https://github.com/mpmosby/Enterprise-Security-Lab-Part-1)**  
   Multi-VM enterprise lab build (pfSense, AD, Splunk, Sysmon, Kali, Metasploitable).  
 
 - **[Enterprise Security Lab – Part 1.5 (Snort)](https://github.com/<your-username>/enterprise-lab-part1.5-snort)** *(In Progress)*  
