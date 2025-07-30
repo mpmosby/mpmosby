@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Melodye
 
 ## 💻 About Me
-- Aspiring Security Engineer with hands-on experience in enterprise labs and attack simulations.
-- Background in Active Directory, firewalls, IDS/IPS, and SIEM.
+- GRC/InfoSec Analyst
 
 ## 📜 Certifications
-- ![CISA Badge](link)
+- ![CISA Badge](https://www.credly.com/badges/cd5e52fe-615f-4b27-ad54-33ec35313522/public_url)
 - AWS Certified Security – Specialty  
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 
